@@ -47,7 +47,7 @@ mirage-tide-landing/
 ## 🖥️ Local Setup
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/SameerSingh017/mirage-tide-landing.git
+   git clone https://github.com/SameerSingh017/mirage-tide.git
    cd mirage-tide-landing
 
 or Simply open index.html in your browser.
